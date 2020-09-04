@@ -1,0 +1,24 @@
+{
+  "name": "square-connect-typescript",
+  "version": "1.0.0",
+  "description": "Unofficial TypeScript SDK for square-connect",
+  "main": "api.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enjine/square-connect-typescript.git"
+  },
+  "keywords": [
+    "square",
+    "typescript",
+    "sdk"
+  ],
+  "author": "Alessandro Di Candia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enjine/square-connect-typescript/issues"
+  },
+  "homepage": "https://github.com/enjine/square-connect-typescript#readme"
+}
